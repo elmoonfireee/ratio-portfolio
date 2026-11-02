@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "title": "RATIO Smart Innovations | Inteligentny dom i automatyka Loxone",
+    "description": "Oficjalny Partner Loxone. Projektowanie, instalacja i konfiguracja inteligentnych systemów domu i budynku w Wielkopolsce i na Dolnym Śląsku.",
+    "locale": "pl_PL",
+    "keywords": [
+      "RATIO Smart Innovations",
+      "Oficjalny Partner Loxone",
+      "inteligentny dom",
+      "smart home",
+      "Loxone",
+      "automatyka budynkowa",
+      "Wielkopolska",
+      "Dolny Śląsk"
+    ]
+  },
+  "skipLink": "Przejdź do głównej treści",
+  "nav": {
+    "aria": "Główna nawigacja",
+    "open": "Otwórz menu",
+    "close": "Zamknij menu",
+    "items": [
+      {
+        "href": "#uslugi",
+        "label": "Usługi"
+      },
+      {
+        "href": "#proces",
+        "label": "Jak pracujemy"
+      },
+      {
+        "href": "#realizacje",
+        "label": "Realizacje"
+      },
+      {
+        "href": "#technologie",
+        "label": "Technologie"
+      },
+      {
+        "href": "#o-nas",
+        "label": "O firmie"
+      },
+      {
+        "href": "#kontakt",
+        "label": "Kontakt"
+      }
+    ],
+    "cta": "Umów konsultację",
+    "languageLabel": "Zmień język"
+  },
+  "partner": {
+    "title": "Oficjalny Partner Loxone",
+    "subtitle": "Powered by Loxone technology",
+    "logoAlt": "Logo Official Loxone Partner"
+  },
+  "hero": {
+    "badge": "Projekt • Instalacja • Automatyka • Integracja",
+    "headline": "Inteligentny dom, który pracuje dla Ciebie.",
+    "text": "Projektujemy, instalujemy i konfigurujemy inteligentne systemy domu i budynku oparte na technologii Loxone.",
+    "serviceArea": "Działamy na terenie Wielkopolski i Dolnego Śląska.",
+    "primaryCta": "Umów konsultację",
+    "secondaryCta": "Zobacz realizacje",
+    "projectsHref": "/pl/realizacje",
+    "imageAlt": "RATIO Smart Innovations - system inteligentnego domu",
+    "nodes": [
+      "Centrala",
+      "Dom",
+      "Sieć",
+      "Budynek"
+    ]
+  },
+  "about": {
+    "eyebrow": "O firmie",
+    "title": "Technologia dopasowana do Twojego stylu życia",
+    "lead": "RATIO Smart Innovations łączy automatykę, komfort, bezpieczeństwo, oszczędność energii i nowoczesne rozwiązania IT w jeden spójny system.",
+    "text": "Jako Oficjalny Partner Loxone projektujemy systemy, które wspierają codzienne scenariusze, porządkują instalacje techniczne i pozostają gotowe na rozwój budynku.",
+    "imageAlt": "Logo RATIO Smart Innovations",
+    "features": [
+      "Komfort",
+      "Bezpieczeństwo",
+      "Oszczędność energii",
+      "Pełna integracja"
+    ]
+  },
+  "services": {
+    "eyebrow": "Usługi",
+    "title": "Kompletny zakres dla inteligentnych budynków.",
+    "lead": "Od pierwszej koncepcji po konfigurację i opiekę nad systemem. Działamy w Wielkopolsce i na Dolnym Śląsku.",
+    "demo": {
+      "switchLabel": "Wybierz wariant prezentacji usług",
+      "consoleLabel": "Service Console",
+      "homeLabel": "Schemat domu",
+      "servicesListLabel": "Lista usług",
+      "systemMapLabel": "Mapa systemu inteligentnego domu",
+      "integratedSystemLabel": "Zintegrowany system RATIO",
+      "shortLabels": [
+        "Projektowanie",
+        "Instalacja",
+        "Loxone",
+        "Komfort",
+        "Bezpieczeństwo",
+        "Integracja",
+        "Modernizacja",
+        "Sieć i IT"
+      ]
+    },
+    "items": [
+      {
+        "title": "Projektowanie systemów inteligentnego domu",
+        "description": "Tworzymy koncepcję automatyki dopasowaną do budynku, trybu życia użytkowników i planowanej infrastruktury."
+      },
+      {
+        "title": "Instalacja i uruchomienie automatyki budynkowej",
+        "description": "Prowadzimy wdrożenie od montażu elementów po testy działania i przygotowanie systemu do codziennego użytkowania."
+      },
+      {
+        "title": "Systemy Loxone",
+        "description": "Konfigurujemy logikę automatyki, sceny, harmonogramy oraz integracje w ekosystemie Loxone."
+      },
+      {
+        "title": "Oświetlenie, rolety i sterowanie klimatem",
+        "description": "Łączymy światło, osłony okienne, ogrzewanie, chłodzenie i wentylację w wygodne scenariusze komfortu."
+      },
+      {
+        "title": "Monitoring, alarmy i kontrola dostępu",
+        "description": "Integrujemy wybrane elementy bezpieczeństwa tak, aby informacje i reakcje systemu były czytelne dla użytkownika."
+      },
+      {
+        "title": "Integracja urządzeń i systemów",
+        "description": "Spinamy instalacje techniczne, multimedia, czujniki i sterowanie w spójny system zarządzania domem."
+      },
+      {
+        "title": "Modernizacja istniejących instalacji",
+        "description": "Porządkujemy i rozbudowujemy działające już instalacje, gdy dom wymaga lepszej automatyki lub nowych funkcji."
+      },
+      {
+        "title": "Usługi informatyczne dla domu i firmy",
+        "description": "Wspieramy sieci lokalne, Wi-Fi, konfigurację urządzeń i podstawową infrastrukturę IT nowoczesnych obiektów."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Jak pracujemy",
+    "title": "Proces prowadzony spokojnie i technicznie.",
+    "lead": "Najpierw rozumiemy potrzeby i instalację, potem projektujemy system. Dzięki temu automatyka jest logiczna, przewidywalna i gotowa na rozwój.",
+    "steps": [
+      {
+        "title": "Rozmowa i analiza potrzeb",
+        "description": "Poznajemy budynek, oczekiwania użytkowników i priorytety inwestycji."
+      },
+      {
+        "title": "Projekt systemu",
+        "description": "Układamy logikę działania, scenariusze oraz strukturę instalacji."
+      },
+      {
+        "title": "Dobór urządzeń",
+        "description": "Wybieramy elementy systemu zgodne z funkcjami i warunkami technicznymi."
+      },
+      {
+        "title": "Montaż i konfiguracja",
+        "description": "Uruchamiamy automatykę, testujemy reakcje i dopracowujemy ustawienia."
+      },
+      {
+        "title": "Wsparcie po wdrożeniu",
+        "description": "Pomagamy w użytkowaniu, korektach scen i dalszej rozbudowie systemu."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Realizacje",
+    "title": "Portfolio przygotowane pod potwierdzone projekty.",
+    "lead": "Poniższe pozycje są placeholderami i nie są prezentowane jako realnie zakończone wdrożenia.",
+    "note": "Po uzupełnieniu materiałów można dodać zdjęcia, zakres funkcji, typ obiektu, technologie oraz opis efektu dla użytkowników.",
+    "scopeLabel": "Zakres",
+    "items": [
+      {
+        "category": "Dom jednorodzinny",
+        "title": "Automatyka komfortu dziennego",
+        "scope": "Oświetlenie, rolety, sceny, czujniki",
+        "status": "Przykładowa realizacja",
+        "tags": [
+          "Loxone",
+          "Oświetlenie",
+          "Rolety"
+        ],
+        "description": "Placeholder koncepcyjny dla projektu domu, w którym priorytetem jest wygodne sterowanie scenami i codziennym komfortem."
+      },
+      {
+        "category": "Apartament",
+        "title": "Sterowanie klimatem i dostępem",
+        "scope": "HVAC, kontrola wejścia, aplikacja",
+        "status": "Wkrótce",
+        "tags": [
+          "HVAC",
+          "Dostęp",
+          "Aplikacja"
+        ],
+        "description": "Miejsce na przyszłe case study. Opis nie przedstawia zakończonej realizacji ani danych konkretnego klienta."
+      },
+      {
+        "category": "Modernizacja",
+        "title": "Rozbudowa istniejącej instalacji",
+        "scope": "Audyt, integracja, rekonfiguracja",
+        "status": "Projekt demonstracyjny",
+        "tags": [
+          "Integracja",
+          "Modernizacja",
+          "Wsparcie"
+        ],
+        "description": "Przykładowy zakres pokazujący, jak można uporządkować i rozwinąć działający system automatyki budynkowej."
+      },
+      {
+        "category": "Infrastruktura IT",
+        "title": "Sieć dla inteligentnego budynku",
+        "scope": "LAN, Wi-Fi, urządzenia sieciowe",
+        "status": "Przykładowa realizacja",
+        "tags": [
+          "Sieć",
+          "Wi-Fi",
+          "IT"
+        ],
+        "description": "Placeholder dla projektu infrastruktury technicznej wspierającej stabilną pracę systemu smart home."
+      }
+    ],
+    "allProjectsCta": "Zobacz wszystkie realizacje",
+    "carousel": {
+      "ariaLabel": "Karuzela realizacji RATIO",
+      "slideLabel": "Realizacja",
+      "previousLabel": "Pokaż poprzednią realizację",
+      "nextLabel": "Pokaż następną realizację"
+    },
+    "cardLabels": {
+      "location": "Region",
+      "details": "Zobacz szczegóły"
+    }
+  },
+  "technologies": {
+    "eyebrow": "Technologie",
+    "title": "Loxone jako centrum inteligentnego budynku.",
+    "lead": "Jako Oficjalny Partner Loxone budujemy systemy wokół technologii Loxone i integrujemy je z instalacjami wpływającymi na komfort, bezpieczeństwo i zużycie energii.",
+    "note": "Technologia oparta na Loxone pozostaje rdzeniem systemu, a RATIO odpowiada za projekt, konfigurację i dopasowanie integracji do konkretnego budynku.",
+    "mainTitle": "Loxone",
+    "mainText": "Główny ekosystem smart home dla automatyki, scen, logiki pracy budynku i czytelnego sterowania z poziomu aplikacji.",
+    "items": [
+      {
+        "title": "Oświetlenie",
+        "description": "Sceny, natężenie światła i sterowanie dopasowane do rytmu dnia."
+      },
+      {
+        "title": "HVAC",
+        "description": "Ogrzewanie, chłodzenie i wentylacja jako część jednego systemu."
+      },
+      {
+        "title": "Rolety",
+        "description": "Sterowanie osłonami okiennymi w scenach komfortu i ochrony."
+      },
+      {
+        "title": "Monitoring",
+        "description": "Wybrane systemy kamer i powiadomień w ramach integracji."
+      },
+      {
+        "title": "Kontrola dostępu",
+        "description": "Wejścia, uprawnienia i scenariusze bezpieczeństwa."
+      },
+      {
+        "title": "Energia",
+        "description": "Zarządzanie zużyciem i automatyzacją urządzeń technicznych."
+      },
+      {
+        "title": "Sieć",
+        "description": "Infrastruktura LAN/Wi-Fi wspierająca stabilną pracę domu."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Porozmawiajmy o Twoim systemie.",
+    "lead": "Opowiedz nam o swoim domu, mieszkaniu lub firmie. Przygotujemy rozwiązanie dopasowane do Twoich potrzeb.",
+    "details": [
+      [
+        "Telefon",
+        "+48 576 412 390"
+      ],
+      [
+        "E-mail",
+        "kontakt@ratiosmart.pl"
+      ],
+      [
+        "Obszar działania",
+        "Wielkopolska i Dolny Śląsk"
+      ],
+      [
+        "NIP",
+        "8971950553"
+      ]
+    ],
+    "fields": {
+      "name": "Imię i nazwisko",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "serviceType": "Rodzaj usługi",
+      "message": "Wiadomość",
+      "company": "Firma",
+      "servicePlaceholder": "Wybierz zakres",
+      "privacyPrefix": "Potwierdzam, że zapoznałem/am się z",
+      "privacyLink": "polityką prywatności",
+      "privacySuffix": " oraz informacją o przetwarzaniu danych w celu obsługi mojego zapytania."
+    },
+    "serviceTypes": [
+      "Projekt smart home",
+      "Instalacja automatyki",
+      "System Loxone",
+      "Modernizacja instalacji",
+      "Usługi IT",
+      "Inny zakres"
+    ],
+    "submit": "Wyślij zapytanie",
+    "sending": "Wysyłanie...",
+    "cooldown": "Spróbuj za {seconds}s",
+    "errors": {
+      "name": "Podaj imię i nazwisko.",
+      "emailRequired": "Podaj adres e-mail.",
+      "emailInvalid": "Podaj poprawny adres e-mail.",
+      "serviceType": "Wybierz rodzaj usługi.",
+      "message": "Napisz wiadomość.",
+      "privacy": "Potwierdź zapoznanie się z polityką prywatności.",
+      "form": "Sprawdź oznaczone pola formularza.",
+      "cooldown": "Odczekaj chwilę przed kolejną wysyłką formularza.",
+      "network": "Nie udało się połączyć z serwerem. Spróbuj ponownie za chwilę."
+    },
+    "status": {
+      "accepted": "Dziękujemy. Formularz został przyjęty.",
+      "invalid": "Sprawdź poprawność danych w formularzu.",
+      "rateLimit": "Zbyt wiele prób wysłania formularza. Spróbuj ponownie za chwilę.",
+      "missingSmtp": "Formularz jest poprawny, ale wysyłka e-mail nie została jeszcze skonfigurowana po stronie serwera.",
+      "badSmtpPort": "Formularz jest poprawny, ale port SMTP ma nieprawidłową konfigurację po stronie serwera.",
+      "sendError": "Nie udało się wysłać wiadomości. Spróbuj ponownie później lub skorzystaj z danych kontaktowych.",
+      "sent": "Dziękujemy. Wiadomość została wysłana."
+    }
+  },
+  "privacyPolicy": {
+    "eyebrow": "Prywatność",
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: 3 sierpnia 2026 r.",
+    "close": "Zamknij politykę prywatności",
+    "intro": "Poniższa informacja opisuje zasady przetwarzania danych osobowych podczas korzystania ze strony RATIO Smart Innovations i wysyłania zapytań przez formularz kontaktowy, zgodnie z art. 13 RODO.",
+    "sections": [
+      {
+        "title": "Administrator danych",
+        "paragraphs": [
+          "Administratorem danych osobowych jest Krzysztof Szczepański, prowadzący działalność pod marką RATIO Smart Innovations, NIP 8971950553, adres: ul. Stanisława Leszczyńskiego 4/77, 50-078 Wrocław.",
+          "W sprawach dotyczących danych osobowych można kontaktować się pod adresem kontakt@ratiosmart.pl lub telefonicznie pod numerem +48 576 412 390. Administrator nie wyznaczył inspektora ochrony danych."
+        ]
+      },
+      {
+        "title": "Zakres przetwarzanych danych",
+        "items": [
+          "Dane podane w formularzu: imię i nazwisko, adres e-mail, opcjonalny numer telefonu, wybrany rodzaj usługi oraz treść wiadomości.",
+          "Dane techniczne konieczne do działania i bezpieczeństwa strony, takie jak adres IP, czas żądania oraz informacje diagnostyczne o błędach."
+        ]
+      },
+      {
+        "title": "Cele i podstawy prawne",
+        "items": [
+          "Obsługa zapytania i podjęcie działań na żądanie osoby przed zawarciem umowy — art. 6 ust. 1 lit. b RODO.",
+          "Prowadzenie korespondencji, zapewnienie ciągłości komunikacji i obrona przed roszczeniami — prawnie uzasadniony interes administratora, art. 6 ust. 1 lit. f RODO.",
+          "Zapewnienie bezpieczeństwa strony, przeciwdziałanie nadużyciom i diagnozowanie błędów — prawnie uzasadniony interes administratora, art. 6 ust. 1 lit. f RODO.",
+          "Wypełnienie obowiązków wynikających z przepisów prawa, jeżeli powstaną w związku z zapytaniem lub umową — art. 6 ust. 1 lit. c RODO."
+        ]
+      },
+      {
+        "title": "Odbiorcy danych",
+        "paragraphs": [
+          "Dane mogą być powierzane podmiotom zapewniającym hosting, pocztę elektroniczną i SMTP, utrzymanie IT, bezpieczeństwo oraz monitoring błędów, wyłącznie w zakresie potrzebnym do świadczenia tych usług. Dane mogą zostać udostępnione organom publicznym, jeżeli wymaga tego prawo."
+        ]
+      },
+      {
+        "title": "Przekazywanie danych poza EOG",
+        "paragraphs": [
+          "Treść formularza jest kierowana do skrzynki administratora i nie jest celowo przekazywana poza Europejski Obszar Gospodarczy. Strona korzysta z narzędzia Sentry do diagnostyki błędów. Domyślne dane identyfikujące użytkownika są wyłączone, a adresy e-mail i numery telefonów są usuwane z komunikatów przed wysłaniem.",
+          "Jeżeli dostawca techniczny zapewnia dostęp do danych z państwa trzeciego, przekazanie odbywa się na podstawie odpowiedniego mechanizmu z art. 45 lub 46 RODO, w szczególności decyzji stwierdzającej odpowiedni stopień ochrony albo standardowych klauzul umownych. Informację o stosowanych zabezpieczeniach można uzyskać, kontaktując się z administratorem."
+        ]
+      },
+      {
+        "title": "Okres przechowywania",
+        "items": [
+          "Dane z zapytania są przechowywane przez czas potrzebny do udzielenia odpowiedzi i prowadzenia dalszej korespondencji.",
+          "Jeżeli rozmowa prowadzi do zawarcia umowy, dane mogą być przechowywane przez okres realizacji umowy oraz do upływu terminów przedawnienia roszczeń i obowiązków wynikających z prawa.",
+          "Dane techniczne służące ograniczaniu nadużyć są przechowywane krótkotrwale, a informacje diagnostyczne — przez okres wynikający z konfiguracji usługi monitoringu błędów."
+        ]
+      },
+      {
+        "title": "Prawa osoby, której dane dotyczą",
+        "items": [
+          "Prawo dostępu do danych i otrzymania ich kopii.",
+          "Prawo sprostowania, usunięcia lub ograniczenia przetwarzania danych.",
+          "Prawo przenoszenia danych — w przypadkach przewidzianych w RODO.",
+          "Prawo wniesienia sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie administratora.",
+          "Prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych."
+        ]
+      },
+      {
+        "title": "Dobrowolność podania danych i automatyczne decyzje",
+        "paragraphs": [
+          "Podanie danych jest dobrowolne, jednak imię i nazwisko, adres e-mail, rodzaj usługi, wiadomość oraz potwierdzenie zapoznania się z niniejszą informacją są potrzebne do wysłania i obsługi zapytania. Numer telefonu jest opcjonalny.",
+          "Dane nie są wykorzystywane do zautomatyzowanego podejmowania decyzji ani profilowania."
+        ]
+      },
+      {
+        "title": "Pliki cookies i dane techniczne",
+        "paragraphs": [
+          "Strona nie wykorzystuje marketingowych ani analitycznych plików cookies. Stosowane zabezpieczenia formularza obejmują krótkotrwały limit liczby żądań i pole antyspamowe. Narzędzie diagnostyczne Sentry działa z wyłączonym przesyłaniem domyślnych danych osobowych i z dodatkowym usuwaniem danych kontaktowych z raportów błędów."
+        ]
+      },
+      {
+        "title": "Kontakt i skarga",
+        "paragraphs": [
+          "Żądania dotyczące danych można kierować na adres kontakt@ratiosmart.pl. Skargę można wnieść do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stanisława Moniuszki 1A, 00-014 Warszawa, za pośrednictwem kanałów wskazanych na uodo.gov.pl."
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "aria": "Nawigacja stopki",
+    "tagline": "Smart home. Inteligentnie zaprojektowane.",
+    "description": "RATIO Smart Innovations projektuje, instaluje i konfiguruje inteligentne systemy domu i budynku oparte na technologii Loxone.",
+    "privacy": "Polityka prywatności"
+  },
+  "projectsPage": {
+    "metaTitle": "Realizacje inteligentnych domów i budynków",
+    "metaDescription": "Przykładowy obszar realizacji RATIO Smart Innovations: komfort, bezpieczeństwo, efektywność energetyczna i codzienna użyteczność systemów smart home.",
+    "breadcrumbsAria": "Okruszki nawigacyjne",
+    "home": "Strona główna",
+    "current": "Realizacje",
+    "eyebrow": "Realizacje",
+    "title": "Realizacje inteligentnych domów i budynków",
+    "intro": "Każdy projekt powstaje wokół komfortu, bezpieczeństwa, efektywności energetycznej i codziennej użyteczności. Do czasu publikacji zweryfikowanych realizacji poniższe wpisy są wyraźnie oznaczonymi przykładami.",
+    "filtersAria": "Filtry kategorii realizacji",
+    "allFilter": "Wszystkie",
+    "emptyTitle": "Brak projektów w tej kategorii",
+    "emptyText": "Po dodaniu zweryfikowanych realizacji projekty pojawią się tutaj automatycznie.",
+    "cardLabels": {
+      "location": "Region",
+      "details": "Zobacz szczegóły"
+    }
+  },
+  "projectDetail": {
+    "breadcrumbsAria": "Okruszki nawigacyjne",
+    "home": "Strona główna",
+    "projects": "Realizacje",
+    "status": "Status",
+    "location": "Region",
+    "year": "Rok",
+    "overview": "Opis projektu",
+    "demoNotice": "To jest projekt demonstracyjny. Nie przedstawia realnego klienta, adresu ani zakończonej instalacji i jest wyłączony z indeksowania do czasu zastąpienia zweryfikowaną realizacją.",
+    "scope": "Zakres prac",
+    "functions": "Wybrane funkcje inteligentne",
+    "technologies": "Zastosowane technologie Loxone i integracje",
+    "galleryEyebrow": "Zdjęcia realizacji",
+    "gallery": "Galeria",
+    "galleryImage": "Wizualizacja",
+    "galleryOpen": "Powiększ zdjęcie",
+    "galleryThumbnails": "Miniatury galerii",
+    "closeGallery": "Zamknij galerię",
+    "previousImage": "Poprzednie zdjęcie",
+    "nextImage": "Następne zdjęcie",
+    "previous": "Poprzedni projekt",
+    "next": "Następny projekt",
+    "cta": "Skontaktuj się z RATIO"
+  }
+}
