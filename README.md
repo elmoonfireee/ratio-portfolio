@@ -62,7 +62,3 @@ docker run --rm -p 3000:3000 ratio-portfolio:local
 ```
 
 Można też użyć `docker compose up --build`; opcjonalna konfiguracja środowiska jest opisana w `compose.yaml`. `.dockerignore` wyklucza lokalne pliki środowiskowe, prywatną dokumentację, zależności i artefakty builda z kontekstu. Obraz aplikacji nie był w tym etapie testowany.
-
-## Zasoby i publikacja
-
-Kopia zawiera wyłącznie zasoby potrzebne aplikacji oraz neutralne grafiki przygotowanego portfolio. Przed publicznym udostępnieniem właściciel powinien potwierdzić prawo do użycia i publikacji znaków RATIO, logo partnerskiego Loxone oraz filmu i pozostałych grafik. Adresy zastępcze Facebooka, Instagrama i TikToka nie są wyświetlane. Aby włączyć te linki, podaj rzeczywiste adresy i dostosuj ich etykiety.
