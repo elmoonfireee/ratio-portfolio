@@ -1,0 +1,17 @@
+node_modules
+.next
+.recruitment-local/
+.git
+.gitignore
+.env
+.env.*
+coverage
+npm-debug.log*
+Dockerfile*
+docker-compose*
+README.md
+
+*.log
+**/*.log
+
+.vs/

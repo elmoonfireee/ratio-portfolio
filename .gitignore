@@ -1,0 +1,10 @@
+.next/
+node_modules/
+out/
+coverage/
+*.log
+.env*
+!.env.example
+.recruitment-local/
+TEST_SEO_GOOGLE/
+.vs/

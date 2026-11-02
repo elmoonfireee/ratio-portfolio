@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "title": "RATIO Smart Innovations | Smart home and Loxone automation",
+    "description": "Official Loxone Partner. Design, installation and configuration of intelligent home and building systems in Greater Poland and Lower Silesia.",
+    "locale": "en_US",
+    "keywords": [
+      "RATIO Smart Innovations",
+      "Official Loxone Partner",
+      "smart home",
+      "Loxone",
+      "building automation",
+      "system integration",
+      "Greater Poland",
+      "Lower Silesia"
+    ]
+  },
+  "skipLink": "Skip to main content",
+  "nav": {
+    "aria": "Main navigation",
+    "open": "Open menu",
+    "close": "Close menu",
+    "items": [
+      {
+        "href": "#uslugi",
+        "label": "Services"
+      },
+      {
+        "href": "#proces",
+        "label": "Process"
+      },
+      {
+        "href": "#realizacje",
+        "label": "Projects"
+      },
+      {
+        "href": "#technologie",
+        "label": "Technology"
+      },
+      {
+        "href": "#o-nas",
+        "label": "Company"
+      },
+      {
+        "href": "#kontakt",
+        "label": "Contact"
+      }
+    ],
+    "cta": "Book a consultation",
+    "languageLabel": "Change language"
+  },
+  "partner": {
+    "title": "Official Loxone Partner",
+    "subtitle": "Powered by Loxone technology",
+    "logoAlt": "Official Loxone Partner logo"
+  },
+  "hero": {
+    "badge": "Design • Installation • Automation • Integration",
+    "headline": "A smart home that works for you.",
+    "text": "We design, install and configure intelligent home and building systems powered by Loxone technology.",
+    "serviceArea": "Serving Greater Poland and Lower Silesia.",
+    "primaryCta": "Book a consultation",
+    "secondaryCta": "View projects",
+    "projectsHref": "/en/projects",
+    "imageAlt": "RATIO Smart Innovations - smart home system",
+    "nodes": [
+      "Controller",
+      "Home",
+      "Network",
+      "Building"
+    ]
+  },
+  "about": {
+    "eyebrow": "Company",
+    "title": "Technology tailored to your lifestyle",
+    "lead": "RATIO Smart Innovations connects automation, comfort, safety, energy efficiency and modern IT solutions into one coherent system.",
+    "text": "As an Official Loxone Partner, we design systems that support daily scenarios, organize technical installations and remain ready for future expansion.",
+    "imageAlt": "RATIO Smart Innovations logo",
+    "features": [
+      "Comfort",
+      "Safety",
+      "Energy efficiency",
+      "Full integration"
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Complete scope for intelligent buildings.",
+    "lead": "From the first concept to configuration and system support. We serve Greater Poland and Lower Silesia.",
+    "demo": {
+      "switchLabel": "Choose a service presentation variant",
+      "consoleLabel": "Service Console",
+      "homeLabel": "Home diagram",
+      "servicesListLabel": "Services list",
+      "systemMapLabel": "Smart home system map",
+      "integratedSystemLabel": "RATIO integrated system",
+      "shortLabels": [
+        "Design",
+        "Installation",
+        "Loxone",
+        "Comfort",
+        "Security",
+        "Integration",
+        "Modernization",
+        "Network and IT"
+      ]
+    },
+    "items": [
+      {
+        "title": "Smart home system design",
+        "description": "We create an automation concept tailored to the building, user habits and planned infrastructure."
+      },
+      {
+        "title": "Building automation installation and commissioning",
+        "description": "We manage implementation from device installation to testing and preparing the system for everyday use."
+      },
+      {
+        "title": "Loxone systems",
+        "description": "We configure automation logic, scenes, schedules and integrations within the Loxone ecosystem."
+      },
+      {
+        "title": "Lighting, blinds and climate control",
+        "description": "We connect lighting, shading, heating, cooling and ventilation into convenient comfort scenarios."
+      },
+      {
+        "title": "Monitoring, alarms and access control",
+        "description": "We integrate selected safety elements so that system information and reactions remain clear for users."
+      },
+      {
+        "title": "Device and system integration",
+        "description": "We connect technical installations, multimedia, sensors and controls into one coherent home management system."
+      },
+      {
+        "title": "Modernization of existing installations",
+        "description": "We organize and expand existing installations when a building needs better automation or new functions."
+      },
+      {
+        "title": "IT services for homes and businesses",
+        "description": "We support local networks, Wi-Fi, device configuration and core IT infrastructure for modern buildings."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "A calm, technical way of working.",
+    "lead": "First we understand the needs and installation, then we design the system. This keeps automation logical, predictable and ready to grow.",
+    "steps": [
+      {
+        "title": "Conversation and needs analysis",
+        "description": "We learn the building, user expectations and investment priorities."
+      },
+      {
+        "title": "System design",
+        "description": "We define operating logic, scenarios and installation structure."
+      },
+      {
+        "title": "Device selection",
+        "description": "We select system elements that match the required functions and technical conditions."
+      },
+      {
+        "title": "Installation and configuration",
+        "description": "We launch automation, test reactions and refine settings."
+      },
+      {
+        "title": "Post-implementation support",
+        "description": "We support daily use, scene adjustments and future system expansion."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "A portfolio prepared for verified projects.",
+    "lead": "The items below are placeholders and are not presented as completed implementations.",
+    "note": "Once confirmed materials are available, photos, functions, building type, technologies and user outcomes can be added.",
+    "scopeLabel": "Scope",
+    "items": [
+      {
+        "category": "Single-family house",
+        "title": "Daily comfort automation",
+        "scope": "Lighting, blinds, scenes, sensors",
+        "status": "Sample project",
+        "tags": [
+          "Loxone",
+          "Lighting",
+          "Blinds"
+        ],
+        "description": "A conceptual placeholder for a house project focused on convenient scene control and everyday comfort."
+      },
+      {
+        "category": "Apartment",
+        "title": "Climate and access control",
+        "scope": "HVAC, access control, app",
+        "status": "Coming soon",
+        "tags": [
+          "HVAC",
+          "Access",
+          "App"
+        ],
+        "description": "A place for a future case study. This description does not represent a completed client project."
+      },
+      {
+        "category": "Modernization",
+        "title": "Expansion of an existing installation",
+        "scope": "Audit, integration, reconfiguration",
+        "status": "Demo project",
+        "tags": [
+          "Integration",
+          "Modernization",
+          "Support"
+        ],
+        "description": "A sample scope showing how an existing building automation system can be organized and expanded."
+      },
+      {
+        "category": "IT infrastructure",
+        "title": "Network for an intelligent building",
+        "scope": "LAN, Wi-Fi, network devices",
+        "status": "Sample project",
+        "tags": [
+          "Network",
+          "Wi-Fi",
+          "IT"
+        ],
+        "description": "A placeholder for technical infrastructure supporting reliable smart home operation."
+      }
+    ],
+    "allProjectsCta": "View all projects",
+    "carousel": {
+      "ariaLabel": "RATIO projects carousel",
+      "slideLabel": "Project",
+      "previousLabel": "Show previous project",
+      "nextLabel": "Show next project"
+    },
+    "cardLabels": {
+      "location": "Region",
+      "details": "View details"
+    }
+  },
+  "technologies": {
+    "eyebrow": "Technology",
+    "title": "Loxone as the center of an intelligent building.",
+    "lead": "As an Official Loxone Partner, we build systems around Loxone technology and integrate installations that affect comfort, safety and energy use.",
+    "note": "Powered by Loxone technology remains the system core, while RATIO is responsible for design, configuration and building-specific integration.",
+    "mainTitle": "Loxone",
+    "mainText": "The main smart home ecosystem for automation, scenes, building logic and clear app-based control.",
+    "items": [
+      {
+        "title": "Lighting",
+        "description": "Scenes, light intensity and controls adapted to the rhythm of the day."
+      },
+      {
+        "title": "HVAC",
+        "description": "Heating, cooling and ventilation as part of one system."
+      },
+      {
+        "title": "Blinds",
+        "description": "Shading control in comfort and protection scenes."
+      },
+      {
+        "title": "Monitoring",
+        "description": "Selected camera and notification systems as part of integration."
+      },
+      {
+        "title": "Access control",
+        "description": "Entrances, permissions and safety scenarios."
+      },
+      {
+        "title": "Energy",
+        "description": "Energy use management and automation of technical devices."
+      },
+      {
+        "title": "Network",
+        "description": "LAN/Wi-Fi infrastructure supporting reliable home operation."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk about your system.",
+    "lead": "Tell us about your house, apartment or company. We will prepare a solution tailored to your needs.",
+    "details": [
+      [
+        "Phone",
+        "+48 576 412 390"
+      ],
+      [
+        "Email",
+        "kontakt@ratiosmart.pl"
+      ],
+      [
+        "Service area",
+        "Greater Poland and Lower Silesia"
+      ],
+      [
+        "Tax ID",
+        "8971950553"
+      ]
+    ],
+    "fields": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "serviceType": "Service type",
+      "message": "Message",
+      "company": "Company",
+      "servicePlaceholder": "Select scope",
+      "privacyPrefix": "I confirm that I have read the",
+      "privacyLink": "privacy policy",
+      "privacySuffix": " and the information on processing my data to handle this inquiry."
+    },
+    "serviceTypes": [
+      "Smart home design",
+      "Automation installation",
+      "Loxone system",
+      "Installation modernization",
+      "IT services",
+      "Other scope"
+    ],
+    "submit": "Send inquiry",
+    "sending": "Sending...",
+    "cooldown": "Try again in {seconds}s",
+    "errors": {
+      "name": "Enter your full name.",
+      "emailRequired": "Enter your email address.",
+      "emailInvalid": "Enter a valid email address.",
+      "serviceType": "Select a service type.",
+      "message": "Write a message.",
+      "privacy": "Confirm that you have read the privacy policy.",
+      "form": "Check the marked form fields.",
+      "cooldown": "Please wait before sending the form again.",
+      "network": "Could not connect to the server. Try again in a moment."
+    },
+    "status": {
+      "accepted": "Thank you. The form has been accepted.",
+      "invalid": "Check the correctness of the form data.",
+      "rateLimit": "Too many form submission attempts. Try again in a moment.",
+      "missingSmtp": "The form is valid, but email sending has not yet been configured on the server.",
+      "badSmtpPort": "The form is valid, but the SMTP port is incorrectly configured on the server.",
+      "sendError": "The message could not be sent. Try again later or use the contact details.",
+      "sent": "Thank you. Your message has been sent."
+    }
+  },
+  "privacyPolicy": {
+    "eyebrow": "Privacy",
+    "title": "Privacy policy",
+    "updated": "Last updated: 3 August 2026",
+    "close": "Close privacy policy",
+    "intro": "This notice explains how personal data is processed when using the RATIO Smart Innovations website and submitting an inquiry through the contact form, in accordance with Article 13 of the GDPR.",
+    "sections": [
+      {
+        "title": "Data controller",
+        "paragraphs": [
+          "The controller of personal data is Krzysztof Szczepański, operating under the RATIO Smart Innovations brand, Polish Tax ID 8971950553, address: Stanisława Leszczyńskiego 4/77, 50-078 Wrocław, Poland.",
+          "For matters concerning personal data, contact kontakt@ratiosmart.pl or call +48 576 412 390. The controller has not appointed a data protection officer."
+        ]
+      },
+      {
+        "title": "Data processed",
+        "items": [
+          "Data entered in the form: full name, email address, optional phone number, selected service type and message content.",
+          "Technical data necessary for operation and security, such as IP address, request time and diagnostic error information."
+        ]
+      },
+      {
+        "title": "Purposes and legal bases",
+        "items": [
+          "Handling the inquiry and taking steps at the data subject’s request before entering into a contract — Article 6(1)(b) GDPR.",
+          "Managing correspondence, ensuring continuity of communication and establishing or defending claims — the controller’s legitimate interests, Article 6(1)(f) GDPR.",
+          "Protecting the website, preventing abuse and diagnosing errors — the controller’s legitimate interests, Article 6(1)(f) GDPR.",
+          "Compliance with legal obligations arising in connection with an inquiry or contract — Article 6(1)(c) GDPR."
+        ]
+      },
+      {
+        "title": "Recipients",
+        "paragraphs": [
+          "Data may be entrusted to providers of hosting, email and SMTP services, IT maintenance, security and error monitoring, solely to the extent necessary to provide those services. Data may also be disclosed to public authorities where required by law."
+        ]
+      },
+      {
+        "title": "Transfers outside the EEA",
+        "paragraphs": [
+          "Contact-form content is delivered to the controller’s mailbox and is not intentionally transferred outside the European Economic Area. The website uses Sentry for error diagnostics. Default user-identifying data is disabled, and email addresses and phone numbers are removed from messages before transmission.",
+          "Where a technical provider allows access from a third country, the transfer is based on an appropriate mechanism under Articles 45 or 46 GDPR, including an adequacy decision or Standard Contractual Clauses. Information about the safeguards used can be obtained from the controller."
+        ]
+      },
+      {
+        "title": "Retention",
+        "items": [
+          "Inquiry data is retained for the time necessary to reply and manage subsequent correspondence.",
+          "If the inquiry leads to a contract, data may be retained for the contract term and until applicable limitation periods and statutory obligations expire.",
+          "Technical data used to limit abuse is retained briefly, while diagnostic information is retained for the period defined in the error-monitoring service configuration."
+        ]
+      },
+      {
+        "title": "Your rights",
+        "items": [
+          "The right to access personal data and receive a copy.",
+          "The right to rectification, erasure or restriction of processing.",
+          "The right to data portability where provided by the GDPR.",
+          "The right to object to processing based on the controller’s legitimate interests.",
+          "The right to lodge a complaint with the President of the Polish Personal Data Protection Office."
+        ]
+      },
+      {
+        "title": "Voluntary provision and automated decisions",
+        "paragraphs": [
+          "Providing data is voluntary. However, full name, email address, service type, message and confirmation that this notice has been read are necessary to submit and handle an inquiry. A phone number is optional.",
+          "Data is not used for automated decision-making or profiling."
+        ]
+      },
+      {
+        "title": "Cookies and technical data",
+        "paragraphs": [
+          "The website does not use marketing or analytics cookies. Contact-form safeguards include a short-term request limit and an anti-spam field. Sentry diagnostics operate with default personal data disabled and additional removal of contact details from error reports."
+        ]
+      },
+      {
+        "title": "Contact and complaints",
+        "paragraphs": [
+          "Data-related requests may be sent to kontakt@ratiosmart.pl. Complaints may be lodged with the President of the Polish Personal Data Protection Office, Stanisława Moniuszki 1A, 00-014 Warsaw, Poland, using the channels listed at uodo.gov.pl."
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "aria": "Footer navigation",
+    "tagline": "Smart home. Intelligently designed.",
+    "description": "RATIO Smart Innovations designs, installs and configures intelligent home and building systems powered by Loxone technology.",
+    "privacy": "Privacy policy"
+  },
+  "projectsPage": {
+    "metaTitle": "Smart Home and Building Projects",
+    "metaDescription": "Example RATIO Smart Innovations projects area: comfort, safety, energy efficiency and everyday usability for smart home systems.",
+    "breadcrumbsAria": "Breadcrumbs",
+    "home": "Home",
+    "current": "Projects",
+    "eyebrow": "Projects",
+    "title": "Smart Home and Building Projects",
+    "intro": "Every project is designed around comfort, safety, energy efficiency and everyday usability. Until verified references are published, the entries below are clearly marked examples.",
+    "filtersAria": "Project category filters",
+    "allFilter": "All",
+    "emptyTitle": "No projects in this category",
+    "emptyText": "Verified projects will appear here automatically after they are added.",
+    "cardLabels": {
+      "location": "Region",
+      "details": "View details"
+    }
+  },
+  "projectDetail": {
+    "breadcrumbsAria": "Breadcrumbs",
+    "home": "Home",
+    "projects": "Projects",
+    "status": "Status",
+    "location": "Region",
+    "year": "Year",
+    "overview": "Project overview",
+    "demoNotice": "This is a demo project. It does not represent a real client, address or completed installation and is excluded from search indexing until replaced with a verified project.",
+    "scope": "Scope of work",
+    "functions": "Selected intelligent functions",
+    "technologies": "Applied Loxone technologies and integrations",
+    "galleryEyebrow": "Project photography",
+    "gallery": "Gallery",
+    "galleryImage": "Visualization",
+    "galleryOpen": "Enlarge image",
+    "galleryThumbnails": "Gallery thumbnails",
+    "closeGallery": "Close gallery",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "previous": "Previous project",
+    "next": "Next project",
+    "cta": "Contact RATIO"
+  }
+}
